@@ -1,0 +1,57 @@
+April 30, 2019
+
+READ ME
+=======
+
+
+eCredit coin is a WAVES token.  Here is the basic token information:
+
+-----------------------------------------------------
+
+
+
+Asset ID: 2i1K7tCEFcawe1iqwjnCXGknBvE62piVmXHcTpbgrHDu
+
+Asset Name: eCredit
+
+Description: eCredit is a token used within some online marketing
+communities Other sites involved in entertainment, finances
+and productivity may participate also
+
+Quantity Issued: 1,024,000,000
+
+In Circulation: 1,024,000,000
+
+Decimals: 8
+
+Reissuable: No
+
+Issue Time: 1 Dec 2018 – 17:25:06
+
+Issued In Block: 1,286,767
+
+Issuer: 3P4Mpmc6GrnhLHM7pZK1pMTbAfLC3b2bi9D
+
+Issuer Public Key: DuSxjnFz3CxvzvYqGuvuKDS2KRbW1ki3EBudwahGFKww
+
+
+
+
+-----------------------------------------------------
+
+
+The official website is ecreditcoin.net
+
+Waves Forums: https://forum.wavesplatform.com/t/ecreditcoin-coin-for-webmasters-and-affiliate-marketers-proof-of-stake-rewards-more-wavesplatform-ticker-ecredit/12155
+
+BitcoinTalk: https://bitcointalk.org/index.php?topic=5092467.msg49247191
+
+
+
+
+
+
+
+
+
+
